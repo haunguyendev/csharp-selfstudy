@@ -1,0 +1,14 @@
+D:\C#\async_await\obj\Debug\net7.0\async_await.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\async_await\obj\Debug\net7.0\async_await.AssemblyInfoInputs.cache
+D:\C#\async_await\obj\Debug\net7.0\async_await.AssemblyInfo.cs
+D:\C#\async_await\obj\Debug\net7.0\async_await.csproj.CoreCompileInputs.cache
+D:\C#\async_await\bin\Debug\net7.0\async_await.exe
+D:\C#\async_await\bin\Debug\net7.0\async_await.deps.json
+D:\C#\async_await\bin\Debug\net7.0\async_await.runtimeconfig.json
+D:\C#\async_await\bin\Debug\net7.0\async_await.dll
+D:\C#\async_await\bin\Debug\net7.0\async_await.pdb
+D:\C#\async_await\obj\Debug\net7.0\async_await.dll
+D:\C#\async_await\obj\Debug\net7.0\refint\async_await.dll
+D:\C#\async_await\obj\Debug\net7.0\async_await.pdb
+D:\C#\async_await\obj\Debug\net7.0\async_await.genruntimeconfig.cache
+D:\C#\async_await\obj\Debug\net7.0\ref\async_await.dll

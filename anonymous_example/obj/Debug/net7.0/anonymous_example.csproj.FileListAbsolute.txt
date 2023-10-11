@@ -1,0 +1,14 @@
+D:\C#\anonymous_example\bin\Debug\net7.0\anonymous_example.exe
+D:\C#\anonymous_example\bin\Debug\net7.0\anonymous_example.deps.json
+D:\C#\anonymous_example\bin\Debug\net7.0\anonymous_example.runtimeconfig.json
+D:\C#\anonymous_example\bin\Debug\net7.0\anonymous_example.dll
+D:\C#\anonymous_example\bin\Debug\net7.0\anonymous_example.pdb
+D:\C#\anonymous_example\obj\Debug\net7.0\anonymous_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\anonymous_example\obj\Debug\net7.0\anonymous_example.AssemblyInfoInputs.cache
+D:\C#\anonymous_example\obj\Debug\net7.0\anonymous_example.AssemblyInfo.cs
+D:\C#\anonymous_example\obj\Debug\net7.0\anonymous_example.csproj.CoreCompileInputs.cache
+D:\C#\anonymous_example\obj\Debug\net7.0\anonymous_example.dll
+D:\C#\anonymous_example\obj\Debug\net7.0\refint\anonymous_example.dll
+D:\C#\anonymous_example\obj\Debug\net7.0\anonymous_example.pdb
+D:\C#\anonymous_example\obj\Debug\net7.0\anonymous_example.genruntimeconfig.cache
+D:\C#\anonymous_example\obj\Debug\net7.0\ref\anonymous_example.dll

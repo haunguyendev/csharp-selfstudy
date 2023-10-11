@@ -1,0 +1,14 @@
+D:\C#\type_attr\bin\Debug\net7.0\type_attr.exe
+D:\C#\type_attr\bin\Debug\net7.0\type_attr.deps.json
+D:\C#\type_attr\bin\Debug\net7.0\type_attr.runtimeconfig.json
+D:\C#\type_attr\bin\Debug\net7.0\type_attr.dll
+D:\C#\type_attr\bin\Debug\net7.0\type_attr.pdb
+D:\C#\type_attr\obj\Debug\net7.0\type_attr.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\type_attr\obj\Debug\net7.0\type_attr.AssemblyInfoInputs.cache
+D:\C#\type_attr\obj\Debug\net7.0\type_attr.AssemblyInfo.cs
+D:\C#\type_attr\obj\Debug\net7.0\type_attr.csproj.CoreCompileInputs.cache
+D:\C#\type_attr\obj\Debug\net7.0\type_attr.dll
+D:\C#\type_attr\obj\Debug\net7.0\refint\type_attr.dll
+D:\C#\type_attr\obj\Debug\net7.0\type_attr.pdb
+D:\C#\type_attr\obj\Debug\net7.0\type_attr.genruntimeconfig.cache
+D:\C#\type_attr\obj\Debug\net7.0\ref\type_attr.dll

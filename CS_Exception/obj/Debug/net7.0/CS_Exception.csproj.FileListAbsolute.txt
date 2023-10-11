@@ -1,0 +1,14 @@
+D:\C#\CS_Exception\obj\Debug\net7.0\CS_Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CS_Exception\obj\Debug\net7.0\CS_Exception.AssemblyInfoInputs.cache
+D:\C#\CS_Exception\obj\Debug\net7.0\CS_Exception.AssemblyInfo.cs
+D:\C#\CS_Exception\obj\Debug\net7.0\CS_Exception.csproj.CoreCompileInputs.cache
+D:\C#\CS_Exception\bin\Debug\net7.0\CS_Exception.exe
+D:\C#\CS_Exception\bin\Debug\net7.0\CS_Exception.deps.json
+D:\C#\CS_Exception\bin\Debug\net7.0\CS_Exception.runtimeconfig.json
+D:\C#\CS_Exception\bin\Debug\net7.0\CS_Exception.dll
+D:\C#\CS_Exception\bin\Debug\net7.0\CS_Exception.pdb
+D:\C#\CS_Exception\obj\Debug\net7.0\CS_Exception.dll
+D:\C#\CS_Exception\obj\Debug\net7.0\refint\CS_Exception.dll
+D:\C#\CS_Exception\obj\Debug\net7.0\CS_Exception.pdb
+D:\C#\CS_Exception\obj\Debug\net7.0\CS_Exception.genruntimeconfig.cache
+D:\C#\CS_Exception\obj\Debug\net7.0\ref\CS_Exception.dll

@@ -1,0 +1,14 @@
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\bin\Debug\net6.0\Cau_Truc_Co_Ban.exe
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\bin\Debug\net6.0\Cau_Truc_Co_Ban.deps.json
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\bin\Debug\net6.0\Cau_Truc_Co_Ban.runtimeconfig.json
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\bin\Debug\net6.0\Cau_Truc_Co_Ban.dll
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\bin\Debug\net6.0\Cau_Truc_Co_Ban.pdb
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\obj\Debug\net6.0\Cau_Truc_Co_Ban.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\obj\Debug\net6.0\Cau_Truc_Co_Ban.AssemblyInfoInputs.cache
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\obj\Debug\net6.0\Cau_Truc_Co_Ban.AssemblyInfo.cs
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\obj\Debug\net6.0\Cau_Truc_Co_Ban.csproj.CoreCompileInputs.cache
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\obj\Debug\net6.0\Cau_Truc_Co_Ban.dll
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\obj\Debug\net6.0\refint\Cau_Truc_Co_Ban.dll
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\obj\Debug\net6.0\Cau_Truc_Co_Ban.pdb
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\obj\Debug\net6.0\Cau_Truc_Co_Ban.genruntimeconfig.cache
+D:\C#\Cau_Truc_Co_Ban\Cau_Truc_Co_Ban\obj\Debug\net6.0\ref\Cau_Truc_Co_Ban.dll

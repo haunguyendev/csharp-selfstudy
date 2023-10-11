@@ -1,0 +1,14 @@
+D:\C#\cs19\bin\Debug\net7.0\cs19.exe
+D:\C#\cs19\bin\Debug\net7.0\cs19.deps.json
+D:\C#\cs19\bin\Debug\net7.0\cs19.runtimeconfig.json
+D:\C#\cs19\bin\Debug\net7.0\cs19.dll
+D:\C#\cs19\bin\Debug\net7.0\cs19.pdb
+D:\C#\cs19\obj\Debug\net7.0\cs19.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\cs19\obj\Debug\net7.0\cs19.AssemblyInfoInputs.cache
+D:\C#\cs19\obj\Debug\net7.0\cs19.AssemblyInfo.cs
+D:\C#\cs19\obj\Debug\net7.0\cs19.csproj.CoreCompileInputs.cache
+D:\C#\cs19\obj\Debug\net7.0\cs19.dll
+D:\C#\cs19\obj\Debug\net7.0\refint\cs19.dll
+D:\C#\cs19\obj\Debug\net7.0\cs19.pdb
+D:\C#\cs19\obj\Debug\net7.0\cs19.genruntimeconfig.cache
+D:\C#\cs19\obj\Debug\net7.0\ref\cs19.dll

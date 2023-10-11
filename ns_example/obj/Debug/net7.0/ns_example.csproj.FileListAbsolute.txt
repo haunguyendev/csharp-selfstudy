@@ -1,0 +1,14 @@
+D:\C#\ns_example\bin\Debug\net7.0\ns_example.exe
+D:\C#\ns_example\bin\Debug\net7.0\ns_example.deps.json
+D:\C#\ns_example\bin\Debug\net7.0\ns_example.runtimeconfig.json
+D:\C#\ns_example\bin\Debug\net7.0\ns_example.dll
+D:\C#\ns_example\bin\Debug\net7.0\ns_example.pdb
+D:\C#\ns_example\obj\Debug\net7.0\ns_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ns_example\obj\Debug\net7.0\ns_example.AssemblyInfoInputs.cache
+D:\C#\ns_example\obj\Debug\net7.0\ns_example.AssemblyInfo.cs
+D:\C#\ns_example\obj\Debug\net7.0\ns_example.csproj.CoreCompileInputs.cache
+D:\C#\ns_example\obj\Debug\net7.0\ns_example.dll
+D:\C#\ns_example\obj\Debug\net7.0\refint\ns_example.dll
+D:\C#\ns_example\obj\Debug\net7.0\ns_example.pdb
+D:\C#\ns_example\obj\Debug\net7.0\ns_example.genruntimeconfig.cache
+D:\C#\ns_example\obj\Debug\net7.0\ref\ns_example.dll

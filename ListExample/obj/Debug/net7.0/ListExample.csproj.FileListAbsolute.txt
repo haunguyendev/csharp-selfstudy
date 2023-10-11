@@ -1,0 +1,14 @@
+D:\C#\ListExample\obj\Debug\net7.0\ListExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ListExample\obj\Debug\net7.0\ListExample.AssemblyInfoInputs.cache
+D:\C#\ListExample\obj\Debug\net7.0\ListExample.AssemblyInfo.cs
+D:\C#\ListExample\obj\Debug\net7.0\ListExample.csproj.CoreCompileInputs.cache
+D:\C#\ListExample\bin\Debug\net7.0\ListExample.exe
+D:\C#\ListExample\bin\Debug\net7.0\ListExample.deps.json
+D:\C#\ListExample\bin\Debug\net7.0\ListExample.runtimeconfig.json
+D:\C#\ListExample\bin\Debug\net7.0\ListExample.dll
+D:\C#\ListExample\bin\Debug\net7.0\ListExample.pdb
+D:\C#\ListExample\obj\Debug\net7.0\ListExample.dll
+D:\C#\ListExample\obj\Debug\net7.0\refint\ListExample.dll
+D:\C#\ListExample\obj\Debug\net7.0\ListExample.pdb
+D:\C#\ListExample\obj\Debug\net7.0\ListExample.genruntimeconfig.cache
+D:\C#\ListExample\obj\Debug\net7.0\ref\ListExample.dll

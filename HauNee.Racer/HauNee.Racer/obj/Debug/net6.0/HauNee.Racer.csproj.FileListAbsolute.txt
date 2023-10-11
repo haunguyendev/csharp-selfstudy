@@ -1,0 +1,14 @@
+D:\C#\HauNee.Racer\HauNee.Racer\bin\Debug\net6.0\HauNee.Racer.exe
+D:\C#\HauNee.Racer\HauNee.Racer\bin\Debug\net6.0\HauNee.Racer.deps.json
+D:\C#\HauNee.Racer\HauNee.Racer\bin\Debug\net6.0\HauNee.Racer.runtimeconfig.json
+D:\C#\HauNee.Racer\HauNee.Racer\bin\Debug\net6.0\HauNee.Racer.dll
+D:\C#\HauNee.Racer\HauNee.Racer\bin\Debug\net6.0\HauNee.Racer.pdb
+D:\C#\HauNee.Racer\HauNee.Racer\obj\Debug\net6.0\HauNee.Racer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HauNee.Racer\HauNee.Racer\obj\Debug\net6.0\HauNee.Racer.AssemblyInfoInputs.cache
+D:\C#\HauNee.Racer\HauNee.Racer\obj\Debug\net6.0\HauNee.Racer.AssemblyInfo.cs
+D:\C#\HauNee.Racer\HauNee.Racer\obj\Debug\net6.0\HauNee.Racer.csproj.CoreCompileInputs.cache
+D:\C#\HauNee.Racer\HauNee.Racer\obj\Debug\net6.0\HauNee.Racer.dll
+D:\C#\HauNee.Racer\HauNee.Racer\obj\Debug\net6.0\refint\HauNee.Racer.dll
+D:\C#\HauNee.Racer\HauNee.Racer\obj\Debug\net6.0\HauNee.Racer.pdb
+D:\C#\HauNee.Racer\HauNee.Racer\obj\Debug\net6.0\HauNee.Racer.genruntimeconfig.cache
+D:\C#\HauNee.Racer\HauNee.Racer\obj\Debug\net6.0\ref\HauNee.Racer.dll

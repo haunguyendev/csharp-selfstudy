@@ -1,0 +1,14 @@
+D:\C#\generic_example\bin\Debug\net7.0\generic_example.exe
+D:\C#\generic_example\bin\Debug\net7.0\generic_example.deps.json
+D:\C#\generic_example\bin\Debug\net7.0\generic_example.runtimeconfig.json
+D:\C#\generic_example\bin\Debug\net7.0\generic_example.dll
+D:\C#\generic_example\bin\Debug\net7.0\generic_example.pdb
+D:\C#\generic_example\obj\Debug\net7.0\generic_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\generic_example\obj\Debug\net7.0\generic_example.AssemblyInfoInputs.cache
+D:\C#\generic_example\obj\Debug\net7.0\generic_example.AssemblyInfo.cs
+D:\C#\generic_example\obj\Debug\net7.0\generic_example.csproj.CoreCompileInputs.cache
+D:\C#\generic_example\obj\Debug\net7.0\generic_example.dll
+D:\C#\generic_example\obj\Debug\net7.0\refint\generic_example.dll
+D:\C#\generic_example\obj\Debug\net7.0\generic_example.pdb
+D:\C#\generic_example\obj\Debug\net7.0\generic_example.genruntimeconfig.cache
+D:\C#\generic_example\obj\Debug\net7.0\ref\generic_example.dll

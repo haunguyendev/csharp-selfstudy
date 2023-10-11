@@ -1,0 +1,11 @@
+D:\C#\Utils\obj\Debug\net7.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Utils\obj\Debug\net7.0\Utils.AssemblyInfoInputs.cache
+D:\C#\Utils\obj\Debug\net7.0\Utils.AssemblyInfo.cs
+D:\C#\Utils\obj\Debug\net7.0\Utils.csproj.CoreCompileInputs.cache
+D:\C#\Utils\bin\Debug\net7.0\Utils.deps.json
+D:\C#\Utils\bin\Debug\net7.0\Utils.dll
+D:\C#\Utils\bin\Debug\net7.0\Utils.pdb
+D:\C#\Utils\obj\Debug\net7.0\Utils.dll
+D:\C#\Utils\obj\Debug\net7.0\refint\Utils.dll
+D:\C#\Utils\obj\Debug\net7.0\Utils.pdb
+D:\C#\Utils\obj\Debug\net7.0\ref\Utils.dll

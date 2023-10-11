@@ -1,0 +1,7 @@
+D:\C#\ToanTu\ToanTu\bin\Debug\ToanTu.exe.config
+D:\C#\ToanTu\ToanTu\bin\Debug\ToanTu.exe
+D:\C#\ToanTu\ToanTu\bin\Debug\ToanTu.pdb
+D:\C#\ToanTu\ToanTu\obj\Debug\ToanTu.csproj.AssemblyReference.cache
+D:\C#\ToanTu\ToanTu\obj\Debug\ToanTu.csproj.CoreCompileInputs.cache
+D:\C#\ToanTu\ToanTu\obj\Debug\ToanTu.exe
+D:\C#\ToanTu\ToanTu\obj\Debug\ToanTu.pdb

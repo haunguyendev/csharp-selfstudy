@@ -1,0 +1,7 @@
+D:\C#\CS12\bin\Debug\CS12.exe.config
+D:\C#\CS12\bin\Debug\CS12.exe
+D:\C#\CS12\bin\Debug\CS12.pdb
+D:\C#\CS12\obj\Debug\CS12.csproj.AssemblyReference.cache
+D:\C#\CS12\obj\Debug\CS12.csproj.CoreCompileInputs.cache
+D:\C#\CS12\obj\Debug\CS12.exe
+D:\C#\CS12\obj\Debug\CS12.pdb

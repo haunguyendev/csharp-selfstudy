@@ -1,0 +1,7 @@
+D:\C#\CauTrucCoban_\CauTrucCoban_\bin\Debug\CauTrucCoban_.exe.config
+D:\C#\CauTrucCoban_\CauTrucCoban_\bin\Debug\CauTrucCoban_.exe
+D:\C#\CauTrucCoban_\CauTrucCoban_\bin\Debug\CauTrucCoban_.pdb
+D:\C#\CauTrucCoban_\CauTrucCoban_\obj\Debug\CauTrucCoban_.csproj.AssemblyReference.cache
+D:\C#\CauTrucCoban_\CauTrucCoban_\obj\Debug\CauTrucCoban_.csproj.CoreCompileInputs.cache
+D:\C#\CauTrucCoban_\CauTrucCoban_\obj\Debug\CauTrucCoban_.exe
+D:\C#\CauTrucCoban_\CauTrucCoban_\obj\Debug\CauTrucCoban_.pdb

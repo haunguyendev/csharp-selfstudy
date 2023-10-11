@@ -1,0 +1,14 @@
+D:\C#\cs30\bin\Debug\net7.0\cs30.exe
+D:\C#\cs30\bin\Debug\net7.0\cs30.deps.json
+D:\C#\cs30\bin\Debug\net7.0\cs30.runtimeconfig.json
+D:\C#\cs30\bin\Debug\net7.0\cs30.dll
+D:\C#\cs30\bin\Debug\net7.0\cs30.pdb
+D:\C#\cs30\obj\Debug\net7.0\cs30.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\cs30\obj\Debug\net7.0\cs30.AssemblyInfoInputs.cache
+D:\C#\cs30\obj\Debug\net7.0\cs30.AssemblyInfo.cs
+D:\C#\cs30\obj\Debug\net7.0\cs30.csproj.CoreCompileInputs.cache
+D:\C#\cs30\obj\Debug\net7.0\cs30.dll
+D:\C#\cs30\obj\Debug\net7.0\refint\cs30.dll
+D:\C#\cs30\obj\Debug\net7.0\cs30.pdb
+D:\C#\cs30\obj\Debug\net7.0\cs30.genruntimeconfig.cache
+D:\C#\cs30\obj\Debug\net7.0\ref\cs30.dll

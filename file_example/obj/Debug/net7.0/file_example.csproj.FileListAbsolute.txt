@@ -1,0 +1,14 @@
+D:\C#\file_example\obj\Debug\net7.0\file_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\file_example\obj\Debug\net7.0\file_example.AssemblyInfoInputs.cache
+D:\C#\file_example\obj\Debug\net7.0\file_example.AssemblyInfo.cs
+D:\C#\file_example\obj\Debug\net7.0\file_example.csproj.CoreCompileInputs.cache
+D:\C#\file_example\bin\Debug\net7.0\file_example.exe
+D:\C#\file_example\bin\Debug\net7.0\file_example.deps.json
+D:\C#\file_example\bin\Debug\net7.0\file_example.runtimeconfig.json
+D:\C#\file_example\bin\Debug\net7.0\file_example.dll
+D:\C#\file_example\bin\Debug\net7.0\file_example.pdb
+D:\C#\file_example\obj\Debug\net7.0\file_example.dll
+D:\C#\file_example\obj\Debug\net7.0\refint\file_example.dll
+D:\C#\file_example\obj\Debug\net7.0\file_example.pdb
+D:\C#\file_example\obj\Debug\net7.0\file_example.genruntimeconfig.cache
+D:\C#\file_example\obj\Debug\net7.0\ref\file_example.dll

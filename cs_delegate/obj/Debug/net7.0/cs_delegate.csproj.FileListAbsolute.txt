@@ -1,0 +1,14 @@
+D:\C#\cs_delegate\obj\Debug\net7.0\cs_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\cs_delegate\obj\Debug\net7.0\cs_delegate.AssemblyInfoInputs.cache
+D:\C#\cs_delegate\obj\Debug\net7.0\cs_delegate.AssemblyInfo.cs
+D:\C#\cs_delegate\obj\Debug\net7.0\cs_delegate.csproj.CoreCompileInputs.cache
+D:\C#\cs_delegate\bin\Debug\net7.0\cs_delegate.exe
+D:\C#\cs_delegate\bin\Debug\net7.0\cs_delegate.deps.json
+D:\C#\cs_delegate\bin\Debug\net7.0\cs_delegate.runtimeconfig.json
+D:\C#\cs_delegate\bin\Debug\net7.0\cs_delegate.dll
+D:\C#\cs_delegate\bin\Debug\net7.0\cs_delegate.pdb
+D:\C#\cs_delegate\obj\Debug\net7.0\cs_delegate.dll
+D:\C#\cs_delegate\obj\Debug\net7.0\refint\cs_delegate.dll
+D:\C#\cs_delegate\obj\Debug\net7.0\cs_delegate.pdb
+D:\C#\cs_delegate\obj\Debug\net7.0\cs_delegate.genruntimeconfig.cache
+D:\C#\cs_delegate\obj\Debug\net7.0\ref\cs_delegate.dll

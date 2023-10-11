@@ -1,0 +1,14 @@
+D:\C#\CS_Event\bin\Debug\net7.0\CS_Event.exe
+D:\C#\CS_Event\bin\Debug\net7.0\CS_Event.deps.json
+D:\C#\CS_Event\bin\Debug\net7.0\CS_Event.runtimeconfig.json
+D:\C#\CS_Event\bin\Debug\net7.0\CS_Event.dll
+D:\C#\CS_Event\bin\Debug\net7.0\CS_Event.pdb
+D:\C#\CS_Event\obj\Debug\net7.0\CS_Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CS_Event\obj\Debug\net7.0\CS_Event.AssemblyInfoInputs.cache
+D:\C#\CS_Event\obj\Debug\net7.0\CS_Event.AssemblyInfo.cs
+D:\C#\CS_Event\obj\Debug\net7.0\CS_Event.csproj.CoreCompileInputs.cache
+D:\C#\CS_Event\obj\Debug\net7.0\CS_Event.dll
+D:\C#\CS_Event\obj\Debug\net7.0\refint\CS_Event.dll
+D:\C#\CS_Event\obj\Debug\net7.0\CS_Event.pdb
+D:\C#\CS_Event\obj\Debug\net7.0\CS_Event.genruntimeconfig.cache
+D:\C#\CS_Event\obj\Debug\net7.0\ref\CS_Event.dll

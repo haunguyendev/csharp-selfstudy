@@ -1,0 +1,14 @@
+D:\C#\CS_24\bin\Debug\net7.0\CS_24.exe
+D:\C#\CS_24\bin\Debug\net7.0\CS_24.deps.json
+D:\C#\CS_24\bin\Debug\net7.0\CS_24.runtimeconfig.json
+D:\C#\CS_24\bin\Debug\net7.0\CS_24.dll
+D:\C#\CS_24\bin\Debug\net7.0\CS_24.pdb
+D:\C#\CS_24\obj\Debug\net7.0\CS_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CS_24\obj\Debug\net7.0\CS_24.AssemblyInfoInputs.cache
+D:\C#\CS_24\obj\Debug\net7.0\CS_24.AssemblyInfo.cs
+D:\C#\CS_24\obj\Debug\net7.0\CS_24.csproj.CoreCompileInputs.cache
+D:\C#\CS_24\obj\Debug\net7.0\CS_24.dll
+D:\C#\CS_24\obj\Debug\net7.0\refint\CS_24.dll
+D:\C#\CS_24\obj\Debug\net7.0\CS_24.pdb
+D:\C#\CS_24\obj\Debug\net7.0\CS_24.genruntimeconfig.cache
+D:\C#\CS_24\obj\Debug\net7.0\ref\CS_24.dll
